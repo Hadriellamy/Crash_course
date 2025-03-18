@@ -1,4 +1,4 @@
-#Exercice 2
+#Exercice 2 Dictionary
 
 """
 1. Given a list: [("name", "Elie"), ("job", "Instructor")], create a dictionary that looks like this: {'job': 'Instructor', 'name': 'Elie'} (Note: The order does not matter).
